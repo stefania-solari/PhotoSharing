@@ -1,5 +1,7 @@
 # PhotoSharing
-Screenshot - Save - Share
+Screenshot - Save on Native Device - Share on Social Networks
+Android and IOS
+That's perfect for AR experience
 
 ## Main Scene
 UIManager manages the screen capture behavior with the ui.
