@@ -1,6 +1,8 @@
 # PhotoSharing
 Screenshot - Save on Native Device - Share on Social Networks
-Android and IOS
+---
+### Android and IOS
+---
 That's perfect for AR experience
 
 ## Main Scene
